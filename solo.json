@@ -1,6 +1,12 @@
-"{
-   "name":"Sergei",
-   "lastname":"Begunetc",
-   "age":"32",
-   "heigh":"175"
-}"
+{
+  "1" : {
+  "name" : "Sergei",
+  "Surnsme" : "Begunetc",
+  "age" : 31
+  },
+  "2" : {
+    "name" : "Viktor",
+    "Surnsme" : "Keibol",
+    "age" : 31
+  }
+}
