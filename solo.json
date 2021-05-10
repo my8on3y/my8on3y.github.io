@@ -1,8 +1,8 @@
 {
-   "name": "Sergei",
-   "lastname": "Begunetc",
-   "age": "32",
-   "citen": "Russia",
-   "heigh": "175",
-   "weight": "81"
+   name: "Sergei",
+   lastname: "Begunetc",
+   age: "32",
+   citen: "Russia",
+   heigh: "175",
+   weight: "81"
 }
