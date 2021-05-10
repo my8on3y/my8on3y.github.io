@@ -1,12 +1,4 @@
 {
-  "1" : {
-  "name" : "Sergei",
-  "Surnsme" : "Begunetc",
-  "age" : 31
-  },
-  "2" : {
-    "name" : "Viktor",
-    "Surnsme" : "Keibol",
-    "age" : 31
-  }
+   "name":"Sergei",
+   "age":3
 }
